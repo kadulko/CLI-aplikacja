@@ -1,0 +1,28 @@
+{
+  "name": "cli-aplikacja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemen index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kadulko/CLI-aplikacja.git"
+  },
+  "author": "Krzysztof Dulko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kadulko/CLI-aplikacja/issues"
+  },
+  "homepage": "https://github.com/kadulko/CLI-aplikacja#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^11.0.0"
+  }
+}
