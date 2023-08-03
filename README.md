@@ -1,6 +1,6 @@
 ### Contact list:
 
-https://monosnap.com/file/MKpAKSx1CO2lyz08DwWI2lAoNBCIIE.png
+https://monosnap.com/file/MKpAKSx1CO2lyz08DwWI2lAoNBCIIE
 
 ### Get conact by id:
 
